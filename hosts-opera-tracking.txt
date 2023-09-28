@@ -1,0 +1,11 @@
+### Author:     Aetherx
+### List        Opera Browser Tracking & Telemetry
+### License:    MIT
+### Updated:    09.28.2023 04:01:01
+### Repo:       https://github.com/Aetherinox/host-blacklist-collection
+
+0.0.0.0 185.23.214.226
+0.0.0.0 107.167.110.216
+0.0.0.0 239.255.255.250
+0.0.0.0 142.251.2.188
+0.0.0.0 142.250.189.163
