@@ -1,0 +1,22 @@
+### Author:     Aetherx
+### List        Application License Servers / DRM
+### License:    MIT
+### Updated:    09.28.2023 04:01:01
+### Repo:       https://github.com/Aetherinox/host-blacklist-collection
+
+0.0.0.0 updates.getmailbird.com
+0.0.0.0 download.getmailbird.com
+0.0.0.0 getmailbird.com
+0.0.0.0 www.getmailbird.com
+0.0.0.0 magicalmailapp.com
+0.0.0.0 www.magicalmailapp.com
+0.0.0.0 35.212.10.49
+0.0.0.0 id.appsforlife.com
+0.0.0.0 screenpresso.com
+0.0.0.0 www.screenpresso.com
+0.0.0.0 secure.screenpresso.com
+0.0.0.0 stats.screenpresso.com
+0.0.0.0 18.65.3.28
+0.0.0.0 50.28.52.187
+0.0.0.0 mirc.com
+0.0.0.0 www.mirc.com
