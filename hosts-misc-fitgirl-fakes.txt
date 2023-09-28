@@ -1,0 +1,21 @@
+### Author:     Aetherx
+### List        Fitgirl Fake Sites
+### License:    MIT
+### Updated:    09.28.2023 04:01:01
+### Repo:       https://github.com/Aetherinox/host-blacklist-collection
+
+0.0.0.0      fitgirlrepacks.co
+0.0.0.0      fitgirl-repacks.cc
+0.0.0.0      fitgirl-repack.com
+0.0.0.0      fitgirl-repacks.website
+0.0.0.0      www.fitgirlrepacks.co  
+0.0.0.0      www.fitgirl-repacks.cc 
+0.0.0.0      www.fitgirl-repack.com 
+0.0.0.0      www.fitgirl-repacks.website
+0.0.0.0      ww9.fitgirl-repacks.xyz
+0.0.0.0      *.fitgirl-repacks.xyz  
+0.0.0.0      fitgirl-repacks.xyz    
+0.0.0.0      fitgirl-repack.net
+0.0.0.0      www.fitgirl-repack.net 
+0.0.0.0      fitgirlpack.site 
+0.0.0.0      www.fitgirlpack.site   
