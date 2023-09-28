@@ -46,6 +46,7 @@
 0.0.0.0 d.audiencerun.com
 0.0.0.0 rtb2.automatad.com
 0.0.0.0 ads.avct.cloud
+0.0.0.0 bid.glass
 0.0.0.0 service.bidlab.ai
 0.0.0.0 us-e-node1.bizzclick.com
 0.0.0.0 dev.pbs.bluebillywig.com
@@ -130,6 +131,7 @@
 0.0.0.0 lwadm.com
 0.0.0.0 pb.ladsp.com
 0.0.0.0 id.crwdcntrl.net
+0.0.0.0 nep.advangelists.com
 0.0.0.0 player-cdn.beachfrontmedia.com
 0.0.0.0 balancer.lmgssp.com
 0.0.0.0 rtb.adxpremium.services
@@ -199,12 +201,3 @@
 0.0.0.0 api.relaido.jp
 0.0.0.0 bid306.rtbsrv.com
 0.0.0.0 trends.revcontent.com
-0.0.0.0 cdn.appround.biz
-0.0.0.0 cdn.download.sweetpacks.com
-0.0.0.0 cdn.insta.playbryte.com
-0.0.0.0 cdn.msdwnld.com
-0.0.0.0 cdn.mypcbackup.com
-0.0.0.0 inno.bisrv.com
-0.0.0.0 installer.betterinstaller.com
-0.0.0.0 nsis.bisrv.com
-0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
