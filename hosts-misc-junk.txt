@@ -158,8 +158,6 @@
 0.0.0.0 traffic.adxprtz.com
 0.0.0.0 sloyalty.com
 0.0.0.0 a.optnmstr.com
-0.0.0.0 familjeliv.se##.pageBlockContainer
-0.0.0.0 svd.se##.ContentLayout-metaColumn
 0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 dropahint.us
 0.0.0.0 reviewwing.com
